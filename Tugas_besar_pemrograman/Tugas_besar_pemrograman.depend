@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1607426457 source:d:\codeblocks\belajarc++\tugas_besar_pemrograman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"pustaka.h"
+
+1607406991 source:d:\codeblocks\belajarc++\tugas_besar_pemrograman\pustaka.c
+	"pustaka.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607835474 d:\codeblocks\belajarc++\tugas_besar_pemrograman\pustaka.h
+
